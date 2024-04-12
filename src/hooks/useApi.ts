@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: "http://localhost:8000/api/v1/"
+    baseURL: "https://exape-cool-voice-2442.fly.dev/api/v1/"
 });
 
 export const useApi = () => ({
