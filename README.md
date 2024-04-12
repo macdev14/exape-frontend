@@ -1,7 +1,9 @@
-This project was bootstrapped with
-[Create React App](https://github.com/facebook/create-react-app).
+## USE NODE v18.19.1
+## USE NPM 10.5.0
+
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
